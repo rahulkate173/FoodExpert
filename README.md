@@ -5,6 +5,7 @@ FoodExpert is a specialized text analysis tool powered by a fine-tuned small lar
 The project provides both a command-line interface (CLI) and a web-based user interface (built with Streamlit) to facilitate real-time inference and text tagging.
 
 ---
+- **Live Link:** [FoodExpert](https://foodexpert-tmbg2szpbjtp4ox3erndks.streamlit.app/)
 
 ## 🚀 Model Details & Hugging Face Repository
 
